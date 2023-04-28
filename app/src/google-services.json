@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661840796244",
+    "project_id": "realpr-73b41",
+    "storage_bucket": "realpr-73b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661840796244:android:e1ff2f171d24d337b5ebc1",
+        "android_client_info": {
+          "package_name": "com.mwangi.realart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661840796244-ecghkkq0aomqgrj76ucotnlsdbpa240v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMEYKr17OpbyebLiJZbucTEw9DHgiFGwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661840796244-ecghkkq0aomqgrj76ucotnlsdbpa240v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
